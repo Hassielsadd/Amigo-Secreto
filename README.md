@@ -16,17 +16,7 @@ Este proyecto fue desarrollado como un desafío para fortalecer habilidades en l
 * **Validación de Datos:** Evita que se agreguen nombres duplicados o campos vacíos para garantizar un sorteo sin errores.
 * **Sorteo Aleatorio:** Implementa un algoritmo que baraja la lista de participantes y asigna los pares de forma justa y aleatoria.
 * **Reinicio Fácil:** Un botón permite limpiar todos los datos para comenzar un nuevo sorteo rápidamente.
-
----
-
-## 🚀 Demo en Vivo
-
-Puedes probar la aplicación en funcionamiento en el siguiente enlace:
-
-**[Ver Demo en Vivo](https://TU-USUARIO.github.io/Amigo-Secreto/)**
-
-*(Recuerda reemplazar `TU-USUARIO` con tu nombre de usuario de GitHub)*
-
+  
 ---
 
 ## 🛠️ Tecnologías Utilizadas
